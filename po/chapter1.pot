@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-05-02 12:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: chapter1.md:3
+msgid ""
+"# I Introduction # Were what we have done for others the measure of what "
+"should be done for us, then the life of Leslie Stephen, if written at all, "
+"should be well written. Moreover, I think that had he been an impartial "
+"judge in his own cause, he would have admitted that an interesting book "
+"might be made about him. His insight, his honesty, his sympathy, his humour "
+"were sometimes expended with good results upon tasks that were far less "
+"promising, and, before I have done what I have to do, I shall hear him "
+"allowing that my materials were better than he thought, though he would not "
+"commend the unskilful use that will be made of them."
+msgstr ""
+
+#. type: Plain text
+#: chapter1.md:4
+msgid ""
+"In two or three words I will explain why I turn my hand to work of a kind to "
+"which it is not accustomed, and then I will say no more of myself. I first "
+"met Leslie Stephen on Sunday, April 4, 1880. He was then forty-seven years "
+"old and I was nearly thirty. A friend of ours had enlisted me as one of "
+"those \"Sunday Tramps\" of whom a word must be said hereafter. My "
+"acquaintance with our \"chief guide,\" as we called him, became friendship, "
+"and after a while a marriage, upon which he bestowed his blessing, made me "
+"in some sort a kinsman of his. Though the relationship was not of the "
+"closest, he could, as I now see, write of me as having been \"domesticated "
+"in his family,\" and \"yours very truly\" was exchanged for \"yours "
+"affectionately.\" Then when he was struck down by a great sorrow and did not "
+"think to live much longer, he told me how he was writing about himself and "
+"the wife whom he had lost, a letter to be read by her children, and how he "
+"wished me to see that letter after his death. After his death I saw it, and "
+"in it he had said that I might make use of the contents if I chose to write "
+"\"a short article or 'apreciation' or a notice in a biographical "
+"dictionary.\""
+msgstr ""
